@@ -1,5 +1,5 @@
 # Demo link:-https://cheerful-entremet-a58c05.netlify.app
-# Our Story
+# JUST-usss
 
 A little web app for making a personalized, interactive surprise page for your partner — a photo, a timeline of your relationship, a memory-match game, and a quiz about your story together. Anyone can sign up, build their own version, and share a code with their partner to unlock it.
 
